@@ -1,0 +1,5 @@
+- id: ddl-pre-commit-checker
+  name: ddl-pre-commit-checker
+  description: DDLの文法・識別子チェック
+  entry: check_ddl
+  language: python
